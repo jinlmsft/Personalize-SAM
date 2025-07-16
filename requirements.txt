@@ -1,6 +1,5 @@
 matplotlib
 tqdm
-os
 numpy
 warnings
 argparse
